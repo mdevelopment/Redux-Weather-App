@@ -14743,7 +14743,7 @@
 	 *
 	 * @providesModule shallowEqual
 	 * @typechecks
-	 * 
+	 *
 	 */
 
 	'use strict';
@@ -26320,17 +26320,17 @@
 	        _react2.default.createElement(
 	          'td',
 	          null,
-	          _react2.default.createElement(_chart2.default, { data: temps, color: 'lightblue', height: 150, units: "° Fahrenheit", width: 175 })
+	          _react2.default.createElement(_chart2.default, { data: temps, color: 'lightblue', height: 150, units:"° Fahrenheit", width: 175 })
 	        ),
 	        _react2.default.createElement(
 	          'td',
 	          null,
-	          _react2.default.createElement(_chart2.default, { data: pressures, color: 'lightblue', height: 150, units: 'hPa', width: 175 })
+	          _react2.default.createElement(_chart2.default, { data: pressures, color: 'lightblue', height: 150, units:'hPa', width: 175 })
 	        ),
 	        _react2.default.createElement(
 	          'td',
 	          null,
-	          _react2.default.createElement(_chart2.default, { data: humidities, color: 'lightblue', height: 150, units: '%', width: 175 })
+	          _react2.default.createElement(_chart2.default, { data: humidities, color: 'lightblue', height: 150, units:'%', width: 175 })
 	        )
 	      );
 	    }
@@ -39786,7 +39786,7 @@
 		 * of patent rights can be found in the PATENTS file in the same directory.
 		 *
 		 * @typechecks
-		 * 
+		 *
 		 */
 
 		/*eslint-disable no-self-compare */
