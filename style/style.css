@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: #262626;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+  border:0 !important;
+  border:none !important;
+  color:white;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+
+svg {
+  height:170px;
+}
+
+.myheader {
+  margin-top: 41px;
+  text-align: center;
+  color: #fff;
+  padding-top: 46px;
+  padding-bottom: 20px;
+  font-size:50px;
+
+}
